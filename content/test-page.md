@@ -1,5 +1,4 @@
 +++
-draft = true
 img_path = "/images/intro.jpg"
 layout = "page"
 subtitle = "this is my test page"
