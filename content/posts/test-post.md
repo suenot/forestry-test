@@ -1,6 +1,5 @@
 +++
 date = "2019-11-30T21:00:00+00:00"
-draft = true
 img_path = "/images/5.jpg"
 layout = "page"
 subtitle = "some"
